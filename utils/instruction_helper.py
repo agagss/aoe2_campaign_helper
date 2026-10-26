@@ -33,8 +33,6 @@ def save_trigger_instructions(scenario_path):
 
 
 
-
-
 def inject_instructions_to_scenario(scenario, instructions_path, inplace=True):
     """Replace the display-instruction effects of named triggers with saved text.
 

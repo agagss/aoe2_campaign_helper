@@ -1,0 +1,152 @@
+{
+    "p1 spawn villager start #": [
+        "<BLUE>：看，一处适合扎营的地方，快让后面的难民过来，让我们在此稍作修整。"
+    ],
+    "p6 scout reach p1 camp": [
+        "<PURPLE>斥候：谢天谢地，看到有人扎营，我还以为是罗马人追过来了。",
+        "<PURPLE>斥候：那群满口谎话的罗马人只是想要廉价的苦力和士卒，我们族人已经放弃苦苦哀求，开始拿起武器了。你愿意加入我们吗？",
+        ""
+    ],
+    "p1 boss reach p6 camp": [
+        ""
+    ],
+    "p4 boss taunt": [
+        "<YELLOW>：你们野蛮人不感恩皇帝省吃俭用挤出来的救济，还打算诉诸武力.很好，我会教你什么叫真正的士兵，真正的战斗！"
+    ],
+    "battle begins": [
+        "<YELLOW>罗马士兵：冲啊，杀了这些蛮子！"
+    ],
+    "p2 spawn  start": [
+        "：你们罗马人背信弃义在先，还以为我们会再忍气吞声吗？我们瑟文吉人会和同胞并肩作战！"
+    ],
+    "capture first half of p4 fort": [
+        "<BLUE>：马尔基安堡是我们的了，但这还不是结束！如果罗马皇帝想看到要铁与血，那我们就满足他！",
+        "<BLUE>哥特士兵：首领，虽然我们击败了大部分守军，但还有一伙罗马懦夫正凭借城堡蜷缩在内区。是现在一鼓作气进攻还是先积攒部队，全凭您定夺。"
+    ],
+    "p1 crossed river": [
+        "<GREEN>将领：又一股哥特人在渡河，这次一定要阻止他们！罗马负担不起照顾那么多野蛮人！"
+    ],
+    "Stage1": [
+        ""
+    ],
+    "p3 house destroyed": [
+        ""
+    ],
+    "change view to river": [
+        "---两年前---"
+    ],
+    "kill p4 boss": [
+        "<YELLOW>：可恶，我得先撤退了。你们这群蠢货犯了个致命的错误，等到皇帝的大军到来，看你们有几个能逃掉！"
+    ],
+    "capture p3 villager1": [
+        "<GREEN>哥特士兵：把这些村民带回营地，现在要让罗马人为我们做事。"
+    ],
+    "capture p3 villager2": [
+        "<GREEN>哥特士兵：把这些村民带回营地，现在要让罗马人为我们做事。"
+    ],
+    "capture p3 villager3": [
+        "<GREEN>哥特士兵：把这些村民带回营地，现在要让罗马人为我们做事。"
+    ],
+    "capture p3 villager4": [
+        "<GREEN>哥特士兵：把这些村民带回营地，现在要让罗马人为我们做事。"
+    ],
+    "p7 attack more frequent": [
+        ""
+    ],
+    "p1p2p6 spawn villager loop start": [
+        "<BLUE>哥特士兵：更多的难民到来了，快快安顿好他们，不要让他们被罗马人抓住。"
+    ],
+    "meet p2p6 besiege troop": [
+        ""
+    ],
+    "p2p6 generals killed": [
+        ""
+    ],
+    "speech: there a duel": [
+        "",
+        ""
+    ],
+    "if p1 intervene": [
+        ""
+    ],
+    "if p5 general killed": [
+        ""
+    ],
+    "if p6 general killed": [
+        ""
+    ],
+    "sppech: p7 will pass valley": [
+        ""
+    ],
+    "p7 pass valley start1": [
+        ""
+    ],
+    "if defend p2 shrine success": [
+        ""
+    ],
+    "Stage3": [
+        ""
+    ],
+    "p2p3p5p6 arrive battle start": [
+        "",
+        ""
+    ],
+    "p7 pass valley start2": [
+        ""
+    ],
+    "kill most p8 cavalry #": [
+        "",
+        "---友方骑兵获得范围攻击---"
+    ],
+    "kill p8 boss #": [
+        ""
+    ],
+    "battle start": [
+        ""
+    ],
+    "p2p6 cavalry go to river": [
+        ""
+    ],
+    "p2 second wave start": [
+        ""
+    ],
+    "p8 arrive battle start": [
+        ""
+    ],
+    "p2p6 cavalry back": [
+        ""
+    ],
+    "Stage2 end": [
+        ""
+    ],
+    "out of food": [
+        ""
+    ],
+    "p1 boss killed #": [
+        ""
+    ],
+    "p2/p6 tc destroyed #": [
+        ""
+    ],
+    "p1/p2/p6 camp destroyed #": [
+        ""
+    ],
+    "burn p3 house": [
+        "",
+        ""
+    ],
+    "p2 onragar broken": [
+        ""
+    ],
+    "P8 army destroyed #": [
+        "",
+        ""
+    ],
+    "capture second half of p4 fort #": [
+        ""
+    ],
+    "speech: raid village and camp": [
+        "",
+        ""
+    ]
+}
